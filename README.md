@@ -15,6 +15,6 @@ A collection of personal projects, experiments and earlier programming work.
 - [Exploratory Data Analysis](https://github.com/Shelbournator/ExData_Plotting1) — R
 - [Programming Exercises](https://github.com/Shelbournator/ProgrammingAssignment2) — R
 
-## Elsewhere
+## Writing
 
-[Thoughts](https://shelbournator.github.io/thoughts/) — Personal writing on systems, engineering and other interests.
+[Thoughts](https://shelbournator.github.io/thoughts/) — Personal writing on systems, engineering and other interests. [Source code](https://github.com/Shelbournator/thoughts)
