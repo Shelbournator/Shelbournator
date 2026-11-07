@@ -9,6 +9,14 @@ This GitHub is a collection of personal projects, technical experiments and earl
 - **[Parallel Tracking Simulator](https://github.com/Shelbournator/PT_simulator)** — A small browser-based experiment exploring tracking requests and landing-page redirects using JavaScript.
 - **[E-commerce Example](https://github.com/Shelbournator/ecomm-example)** — A sample storefront for experimenting with website functionality and analytics instrumentation.
 
+## Writing & Ideas
+
+I also write about systems, engineering, decision-making and other subjects that interest me.
+
+**[Thoughts — Personal Blog](https://shelbournator.github.io/thoughts/)**
+
+A collection of essays and notes exploring technical, organisational and broader questions.
+
 ## Data Analysis & Earlier Learning
 
 A selection of earlier coursework and programming exercises exploring data science, statistical computing and data transformation.
