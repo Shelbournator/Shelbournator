@@ -1,38 +1,20 @@
-# Technical Projects & Experiments
+# Projects & Experiments
 
-I'm a technical solutions professional with a background in advertising technology, product integrations and data-driven problem solving.
+I'm a technical solutions professional working in advertising technology, product integrations and data-driven problem solving.
 
-This GitHub is a collection of personal projects, technical experiments and earlier coursework exploring software development, data analysis, APIs and web technologies.
+A collection of personal projects, experiments and earlier programming work.
 
-## Web & Integration Experiments
+## Projects
 
-- **[Parallel Tracking Simulator](https://github.com/Shelbournator/PT_simulator)** — A small browser-based experiment exploring tracking requests and landing-page redirects using JavaScript.
-- **[E-commerce Example](https://github.com/Shelbournator/ecomm-example)** — A sample storefront for experimenting with website functionality and analytics instrumentation.
+- [Parallel Tracking Simulator](https://github.com/Shelbournator/PT_simulator) — Experimenting with click tracking and redirects.
+- [E-commerce Example](https://github.com/Shelbournator/ecomm-example) — A sample storefront for testing analytics integrations.
 
-## Data Analysis & Earlier Learning
+## Earlier Work
 
-A selection of earlier coursework and programming exercises exploring data science, statistical computing and data transformation.
+- [Data Cleaning & Transformation](https://github.com/Shelbournator/run_analysis) — R
+- [Exploratory Data Analysis](https://github.com/Shelbournator/ExData_Plotting1) — R
+- [Programming Exercises](https://github.com/Shelbournator/ProgrammingAssignment2) — R
 
-- **[Data Cleaning & Transformation](https://github.com/Shelbournator/run_analysis)** — Processing human activity recognition datasets using R.
-- **[Exploratory Data Analysis](https://github.com/Shelbournator/ExData_Plotting1)** — Data visualisation and exploratory analysis.
-- **[R Programming](https://github.com/Shelbournator/ProgrammingAssignment2)** — Programming exercises covering functions and data structures.
+## Elsewhere
 
-## Areas of Interest
-
-- APIs and system integrations
-- Python and software development
-- Data engineering and SQL
-- Advertising technology and measurement
-- Automation and practical technical tools
-
-## Writing & Ideas
-
-I also write about systems, engineering, decision-making and other subjects that interest me.
-
-**[Thoughts — Personal Blog](https://shelbournator.github.io/thoughts/)**
-
-A collection of essays and notes exploring technical, organisational and broader questions.
-
----
-
-*An evolving collection of things I've built, explored and learned.*
+[Thoughts](https://shelbournator.github.io/thoughts/) — Personal writing on systems, engineering and other interests.
